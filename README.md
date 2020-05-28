@@ -2,6 +2,6 @@
 Script for Vanilla Tool Community
 
 
-Changelog Leveling Script:
+<b>Changelog Leveling Script:</b>
 
 -First Release Alpha Version.
